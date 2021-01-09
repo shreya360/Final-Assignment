@@ -1,0 +1,230 @@
+.wrapper{
+    width: 62.5em;
+    margin: auto;
+}
+
+.header-wrapper{
+    width: 62.5em;
+    background: rgb(39,41,47);
+    float: left;
+}
+
+.header{
+    float: left;
+    width: 100%;
+}
+
+.left-header{
+    width: 300px;
+    float: left;
+}
+
+.logo{
+    padding-left: 20px;
+}
+
+.right-upper-header{
+    width: 240px;
+    float: right;
+}
+
+.right-header{
+    float: right;
+    width: 635px;
+    padding: 20px;
+}
+
+.searchbox{
+    float: right;
+    width: 240px;
+}
+
+.searchbox input{
+    width: 200px;
+    height: 25px;
+    float: left;
+    border: none;
+    outline: 0;
+    border-radius: 20px;
+    background: rgb(31,35,44);
+    padding-left:11px;
+    
+}
+
+.searchbox img{
+    float: left;
+    margin-right: 10px;
+}
+
+.right-lower-header{
+    float: right;
+}
+
+.menu{
+    margin-top: 33px;
+    float: right;
+}
+
+.menu li{
+    display: inline;
+    padding: 0 6px;
+    font-size: 15px;
+}
+
+.menu a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.image-wrapper{
+    width: 100%;
+    background: rgb(51,51,51);
+    height: 365px;
+    float: left;
+}
+
+.image-wrapper img{
+    width: 100%;
+}
+
+.contact-wrapper{
+    width: 100%;
+    background: rgb(231,231,231);
+    height: 165px;
+    float: left;
+}
+
+.text{
+    float: left;
+    width: 629px;
+}
+
+.text p{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(77,79,87);
+    margin-top: 46px;
+    padding-left: 19px;
+    float: left;
+}
+
+.contact-button{
+    float: right;
+    border: none;
+    border-radius: 10px;
+    background: rgb(31,35,44);
+    margin-top: 50px;
+    margin-right: 20px;
+}
+
+.contact-button a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20pt;
+    float: left;
+    text-decoration: none;
+    color: rgb(231,231,231);
+    padding: 20px 11px;
+
+}
+
+.body-wrapper{
+    width: 100%;
+    background: rgb(255,255,255);
+    height: 889px;
+    float: left;
+}
+
+.services{
+    width: 100%;
+    margin-top: 80px;
+}
+
+.pic{
+    float: left;
+    margin-right: 20px;
+}
+
+.services{
+    float: left;
+}
+
+.serve{
+    width: 300px;
+    float: left;
+    margin-left: 30px;
+}
+
+.topic{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20pt;
+    color: rgb(44,48,56);
+}
+
+.info p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10pt;
+    margin-top: 14px;
+    color: rgb(195,195,195);
+}
+
+.seperator-text{
+    float: left;
+    width: 100%;
+    margin-top: 83px;
+}
+
+.seperator-text p{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20pt;
+    float: left;
+}
+
+.seperator-text p {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+ } 
+ 
+ p span { 
+     background:#fff; 
+     padding:0 10px; 
+ }
+
+ .images-wrapper{
+     float: left;
+ }
+
+.rectangle{
+    float: left;
+    margin-top: 41px;
+    padding-right: 32px;
+}
+
+.caption {
+    height: 60px;
+    background: rgb(238,238,238);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.caption p {
+    margin-top: 5px;
+}
+
+
+.bottom-contact-wrapper{
+    width: 100%;
+    background: rgb(238,238,238);
+    height: 260px;
+    float: left;
+}
+
+.footer{
+    width: 100%;
+    background: rgb(30,34,43);
+    height: 60px;
+    float: left;
+}
